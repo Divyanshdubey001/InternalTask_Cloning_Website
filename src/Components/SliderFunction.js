@@ -8,7 +8,7 @@ const SliderFunction = () => {
     {
       id: 1,
       imgsrc:
-        "https://assets.website-files.com/5e4b1929fccc7f96f6de825d/5e4b1929fccc7f9857de8342_photo-1442347504183-965bd14449ac.jpg",
+        "https://assets.website-files.com/5e4b1929fccc7f2575de825e/5e4b1929fccc7fd4d0de82b2_photo-1439189741837-58720e8d82d5.jpg",
       alt: "Image1",
     },
     {
@@ -32,7 +32,7 @@ const SliderFunction = () => {
     {
       id: 5,
       imgsrc:
-        "https://assets.website-files.com/5e4b1929fccc7f2575de825e/5e4b1929fccc7fd4d0de82b2_photo-1439189741837-58720e8d82d5.jpg",
+        "https://assets.website-files.com/5e4b1929fccc7f96f6de825d/5e4b1929fccc7f9857de8342_photo-1442347504183-965bd14449ac.jpg",
       alt: "Image5",
     },
   ];
