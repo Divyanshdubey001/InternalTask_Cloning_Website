@@ -1,0 +1,12 @@
+h3.tagline {
+  letter-spacing: 2px;
+  text-align: center;
+  font-size: 26px;
+  font-family: Oxygen, sans-serif;
+  margin-bottom: 20px;
+  padding: 10px;
+  color: #2e2e2e;
+  margin-top: 40px;
+  line-height: 30px;
+  font-weight: 400;
+}

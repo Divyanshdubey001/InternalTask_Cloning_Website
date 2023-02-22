@@ -1,0 +1,45 @@
+.title-nav {
+  display: flex;
+  flex-direction: row;
+  font-size: 27px;
+  margin-left: 200px;
+  text-decoration: none;
+  color: #fff;
+  padding-top: 20px;
+  position: absolute;
+}
+
+.nav-linl-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-transform: uppercase;
+  padding: 0px 20px;
+  font-weight: 200;
+  position: absolute;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin-left: 800px;
+  overflow: hidden;
+  letter-spacing: 0.6px;
+  list-style-type: none;
+  background-color: transparent;
+}
+
+nav ul li {
+  margin: 0px 20px;
+  font-family: Lora, sans-serif;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 400;
+}

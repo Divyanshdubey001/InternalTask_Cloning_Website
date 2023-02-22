@@ -1,0 +1,23 @@
+.image-slider-container img {
+  align-items: center;
+  display: flex;
+  width: 98.89vw;
+  height: 500px;
+}
+
+.image-slider {
+  position: absolute;
+  object-fit: cover;
+}
+
+.nextButton {
+  left: 20px;
+  top: 30%;
+  position: absolute;
+}
+
+.prevButton {
+  right: 20px;
+  top: 30%;
+  position: absolute;
+}
